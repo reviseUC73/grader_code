@@ -1,0 +1,1 @@
+cout << "Peter should buy books whose prices are " << a << " and " << b <<"."<< endl;
